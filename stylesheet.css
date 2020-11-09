@@ -1,0 +1,23 @@
+body {
+  height: 4000px;
+  background: linear-gradient(141deg, #1a1a1d 0%, #1a1a1d 51%, #6f2232 75%);
+  font-family: 'Lato', sans-serif;
+}
+
+.name {
+	color: #6f2232;
+	font-size: 72px;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+}
+.header {
+	/*float: left;*/
+}
+
+.portrait{
+	text-align: center;
+}
+
+h2 {
+	color: #6f2232;
+}

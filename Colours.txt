@@ -1,0 +1,6 @@
+#1a1a1d - Charcoal Black
+#4e4e50 - Grey
+#6f2232 - Burgandy
+#950740 - crimson
+#c3073f - light red
+
