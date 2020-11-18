@@ -1,17 +1,18 @@
 body {
   height: 4000px;
-  background: linear-gradient(141deg, #F9F9F9 0%, #F9F9F9 51%, #6f2232 75%);
-  font-family: 'Lato', sans-serif;
+  background: #F9F9F9;
+  font-family: 'Comfortaa', sans-serif;
 }
 
 .name {
 	color: #A2100C;
 	font-size: 72px;
-	text-align: left;
+	text-align: center;
 	font-family: 'Lato', sans-serif;
 }
 .header {
 	/*float: left;*/
+	text-align: center;
 }
 
 .portrait{
@@ -20,4 +21,8 @@ body {
 
 h2 {
 	color: #A2100C;
+}
+
+.blurb{
+	text-align: center;
 }
