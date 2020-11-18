@@ -32,5 +32,11 @@ h2 {
 }
 
 .bg-primary {
-    background-color: #007bff!important;
+    background-color: #f99245!important;
 }
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #f99245;
+    border-color: #1E162E;
+}
+
