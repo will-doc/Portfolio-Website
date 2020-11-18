@@ -3,4 +3,9 @@
 #6f2232 - Burgandy
 #950740 - crimson
 #c3073f - light red
+-----------------------
+Second colour scheme
 
+https://www.colourlovers.com/palette/4773501/sbs
+ Blue #779ecb
+ Orange #f99245
