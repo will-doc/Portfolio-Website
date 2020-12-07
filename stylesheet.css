@@ -1,7 +1,9 @@
 body {
   background: #F9F9F9;
   font-family: 'Comfortaa', sans-serif;
+  transition: background.color 0.2s;
 }
+
 
 .name {
 	color: #f99245;
@@ -42,3 +44,4 @@ h2 {
 .test {
 	border: 2px solid black;
 }
+

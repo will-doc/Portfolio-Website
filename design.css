@@ -1,0 +1,90 @@
+body {
+  background: white;
+  transition: 0.3s background-color;
+}
+.changeColor {
+   background-color: white;
+}
+
+.name {
+	color: #f99245;
+	font-size: 72px;
+	text-align: center;
+	font-family: 'Lora', sans-serif;
+}
+.header {
+	/*float: left;*/
+	text-align: center;
+}
+
+.portrait{
+	text-align: center;
+}
+
+h2 {
+	color: #f99245;
+}
+
+.blurb{
+	text-align: center;
+}
+
+.cards{
+	text-align: center;
+}
+
+.bg-primary {
+    background-color: #f99245!important;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #f99245;
+    border-color: #1E162E;
+}
+
+.test {
+	border: 2px solid black;
+}
+
+.pimg1, .pimg2, .pimg3{
+	position: relative;
+	opacity: 1;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	background-attachment: fixed;
+} 
+
+.pimg1 {
+	background-image: url(Images/Climate_Poster.jpg);
+	min-height: 400px;
+	background-color: orange;
+}
+
+.pimg2 {
+	background-image: url(Images/SurfShack.jpg);
+	min-height: 400px;
+}
+
+.pimg3 {
+	background-image: url(Images/Flyer.jpg);
+	min-height: 400px;
+}
+
+.ptext{
+	position: absolute;
+	top: 50%;
+	width: 100%
+	font-size 27px;
+	letter-spacing: 8px;
+}
+
+.ptext .border{
+	background-color: #111;
+	color: #fff;
+	padding: 20px;
+}
+
+
+
