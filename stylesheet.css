@@ -1,5 +1,4 @@
 body {
-  height: 4000px;
   background: #F9F9F9;
   font-family: 'Comfortaa', sans-serif;
 }
@@ -40,3 +39,6 @@ h2 {
     border-color: #1E162E;
 }
 
+.test {
+	border: 2px solid black;
+}
